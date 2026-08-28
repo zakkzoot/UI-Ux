@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "omnisocials": {
+      "source": "OmniSocials/omnisocials-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/omnisocials/SKILL.md",
+      "computedHash": "7bc2a26a8b9648964e9ac3271302ca041946627340d75ffa65fad9176380aeec"
+    }
+  }
+}
